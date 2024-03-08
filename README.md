@@ -9,6 +9,7 @@ The following repository contains a platform developed using react-admin and mon
 THe following repository contains a videogame called "Wings of Glory the Pegasus Chronicles" developed in unity.
 [Videogame Repository](https://github.com/emosl/ChicasUnicornio)
 [Explanation Video Youtube](https://www.youtube.com/embed/eHCh55CjSJA)
+![videogame logo](videogame.png "Wings of Glory the Pegasus Chronicles")
 
 
 
