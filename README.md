@@ -10,6 +10,7 @@ THe following repository contains a videogame called "Wings of Glory the Pegasus
 [Videogame Repository](https://github.com/emosl/ChicasUnicornio)
 [Explanation Video Youtube](https://www.youtube.com/embed/eHCh55CjSJA)
 ![videogame logo](videogame.jpg "Wings of Glory the Pegasus Chronicles")
+<img src="videogame.jpg" alt="image" width="300" height="auto">
 
 
 
